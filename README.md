@@ -7,6 +7,8 @@
 - Database: MySQL, PostgreSQL, MongoDB, SQLite, MariaDB, Microsoft SQL Server, Oracle Database, Cassandra, Elasticsearch
 - Testing: Jest, Cypress, Enzyme, Mocha
 - DevOps & Cloud: Git, Docker, Firebase, AWS, Heroku, Vercel, Ansible
+
+
 Your satisfaction is my priority. I am always ready for you.
 Thanks.
 
