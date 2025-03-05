@@ -1,4 +1,4 @@
-👋 Hi There! I'm a passionate senior full-stack developer with 6+ years of experience in web development and Mobile development.
+👋 Hi There! I'm a passionate senior full-stack developer with 10+ years of experience in web development and Mobile development.
 
 🌱 Expertise in programming skills:
 - Languages: HTML5, CSS3, JavaScript, TypeScript, PHP, Python, Ruby, Java, C#, SASS, LESS
