@@ -1,17 +1,4 @@
-👋 Hi There! I'm a passionate senior full-stack developer with 10+ years of experience in web development and Mobile development.
+Sr Frontend & Mobile Developer
 
-🌱 Expertise in programming skills:
-- Languages: HTML5, CSS3, JavaScript, TypeScript, PHP, Python, Ruby, Java, C#, SASS, LESS
-- UI Frameworks and Libraries: jQuery, React, Redux, React Native, GraphQL, Next.js, Vue.js, Angular, Nuxt.js, Bootstrap, Tailwind CSS, Material UI, Vuetify, Ant Design, Three.js
-- Backend: Laravel, Symfony, Wordpress, Ruby on Rails, Express, FastApi, Django, Flask, Spring Boot
-- Database: MySQL, PostgreSQL, MongoDB, SQLite, MariaDB, Microsoft SQL Server, Oracle Database, Cassandra, Elasticsearch
-- DevOps & Cloud: Git, Docker, Firebase, AWS, Heroku, Vercel
-
-
-Your satisfaction is my priority. I am always ready for you.
-Thanks.
-
-<!---
-cappedapollo/cappedapollo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. - Testing: Jest, Cypress, Enzyme, Mocha
---->
+🌱 SKILL:
+HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Angular, Vue.js, Redux, Next.js, React Native, Figma, Adobe XD, Material UI, Tailwind CSS, Bootstrap, RESTful APIs, GraphQL, Firebase, Node.js, Git, Webpack, Vite, Docker, Jenkins, AWS, Azure, Jest, Cypress, Enzyme, Selenium, Scrum, Kanban, Jira, Trello
